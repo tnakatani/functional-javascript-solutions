@@ -15,6 +15,6 @@ function doubleAll (numbers) {
 //     });
 // }
 
-// Note: still don't understand returning functions...
+// Note: still don't understand returning functions...s
 
 module.exports = doubleAll;

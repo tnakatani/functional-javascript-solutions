@@ -10,6 +10,6 @@ function checkUsersValid (goodUsers) {
     };
 }
 
-// I don't understand the logic of this...
+// I don't understand the logic of this...i
 
 module.exports = checkUsersValid;
