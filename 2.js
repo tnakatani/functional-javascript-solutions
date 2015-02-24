@@ -1,3 +1,5 @@
+// 2- Higher Order Functions
+
 function repeat (operation, num) {
     while (num > 0) {
         operation();
